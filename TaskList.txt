@@ -1,0 +1,19 @@
+Emmet Support in Html
+
+Date : November 27,2019
+
+Head Tag mainn rendering related Info page hoti hai
+Meta Tag provides MetaData for the Html
+Metadata will not be displayed on the page, but will be machine parsable.
+Meta elements are typically used to specify page description, keywords, author of the document, last modified, and other metadata.
+Tag Names and Attribute names are case insensitive but values are case sensitive
+http-equip sayyy page koo specified time kayy badd refresh kiia jata hai
+Tags => use lower case to write them
+Attributes => use lower case to write them
+Attribute values => they are case sensitive , be careful about them e.g : Name or Key Attribute values
+There are Six Levels of Headings in Html : h1,h2,h3,h4,h5,h6
+<br> tag for enter
+<em> tag for ItalicCase
+<Strong> tag for BoldCase
+In XAML , we do <br/> for oneliner, in HTML we can do both 
+<br> & </br>
