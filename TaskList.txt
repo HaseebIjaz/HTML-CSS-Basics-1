@@ -17,3 +17,11 @@ There are Six Levels of Headings in Html : h1,h2,h3,h4,h5,h6
 <Strong> tag for BoldCase
 In XAML , we do <br/> for oneliner, in HTML we can do both 
 <br> & </br>
+
+
+Date : November 27,2019
+
+<ol> for ordered List (with bullets)
+<ul> for unordered List (with numbering)
+<li> List Item
+<img> for image and its alt attribute
