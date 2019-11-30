@@ -19,9 +19,20 @@ In XAML , we do <br/> for oneliner, in HTML we can do both
 <br> & </br>
 
 
-Date : November 27,2019
+Date : November 28,2019
 
 <ol> for ordered List (with bullets)
 <ul> for unordered List (with numbering)
 <li> List Item
 <img> for image and its alt attribute
+
+Browser mainn 2 Parsers hotay hainn:
+1.HTML Parser
+2.CSS Parser
+
+<Style> tag kayy under joo bhi ayye gaa wahan Browser samajh jayye gaa kayy abb CSS shuru honay lagii hai aur  apna CSS Parser use karay gaa
+
+==> Everything that is visible is inside the <body> tag, <head> mainn sirf rendering related info hai
+
+Date : November 30,2019
+
