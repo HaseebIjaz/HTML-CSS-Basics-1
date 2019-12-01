@@ -1,5 +1,5 @@
 Emmet Support in Html
-
+Theme
 Date : November 27,2019
 
 Head Tag mainn rendering related Info page hoti hai
@@ -34,5 +34,15 @@ Browser mainn 2 Parsers hotay hainn:
 
 ==> Everything that is visible is inside the <body> tag, <head> mainn sirf rendering related info hai
 
-Date : November 30,2019
+Date : Decmber 1,2019
 
+Jooo bhi appp nayy  display karna hai voo body kayy tag mainn ayye ggaaa
+aur
+Jooo bhi appp kaaa meta-data haii voo head kayy tag mainnn ayye gaa
+
+
+<div> aikk container haii jisss tarha xaml mainn canvas aur stackpanel hota hai
+A div is a container used to group similar objects/content/tags together.
+
+<b> for BoldCase
+<i> for ItalicCase
